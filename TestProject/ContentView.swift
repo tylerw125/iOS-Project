@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "bolt")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Test text")
+            Text("Test text will be deleted tomorrow")
         }
         .padding()
     }
